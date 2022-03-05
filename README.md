@@ -3,7 +3,7 @@ The Airbnb is a room bookings data. This data is given only for New York City fr
 
 
 ## Presentation
-[Here is the Link]()
+[Here is the Link](https://github.com/saransh2396/Airbnb-Booking-Analysis/blob/main/Airbnb%20ppt%20final.pdf)
 
 # Summary
 Through this analysis which could help a customer to take decisions where he/she wants to stay using the Airbnb website, what price and room type he/she can afford and where he/she wants to afford, which hosts he/she can choose and many more insights like We found out rooms in Manhattan was most expensive and busiest. These insights provided information which is very useful for the customers so that they can take the decision according to their needs and can enjoy their stay.
